@@ -3,7 +3,6 @@
 #include <Arduino.h>
 
 #define BUTTON_PIN       13  // Button
-#define POWER_PIN        12  
 #define DELAY            1000  
 
 
@@ -16,10 +15,7 @@ void setup() {
     sfxAntenna.begin();
     int initFinish=1;
 
-     pinMode(BUTTON_PIN, INPUT);
-     pinMode(POWER_PIN, OUTPUT);
-     digitalWrite(POWER_PIN, HIGH);
-    
+    pinMode(BUTTON_PIN, INPUT);
 
     SerialUSB.println("SFX in Command mode");
     sfxAntenna.setSfxConfigurationMode(); // enter in configuration Mode
