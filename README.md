@@ -5,9 +5,9 @@ Tired of checking your mailbox every day? Upgrade it to the next level and get p
 
 This is very simple demo, planed improvements:
 - Optimize power consumption
-- Send notification when someone open the mailbox and you don't need to check it
+- Send notification when someone open the mailbox so you don't need to check it
 - Use NFC on SmartEverything to identify who collects the mails (wife, son, daughter, dog:) - NFC tag on keyring
-- Add Sketch for Akeru or other boards 
+- Add Sketch for Akeru or other boards
 - Ideally create small Arduino based hw prototype to be build in into mailbox for years:)
 
 ## Getting the parts
