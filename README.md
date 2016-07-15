@@ -10,11 +10,13 @@ This is very simple demo, planed improvements:
 - Add Sketch for Akeru or other boards
 - Ideally create small Arduino based hw prototype to be build in into mailbox for years:)
 
+![Board](https://cloud.githubusercontent.com/assets/9611327/16883257/5dd9e006-4ac3-11e6-8ff3-938107eeee0d.png)
+
 ## Getting the parts
 - 1 SmartEverything board (http://www.smarteverything.it)
 - 1 Snap action switch (but you can use reed switch, tilt sensor, optical gate - depends on construction of your mailbox)
 - 1 100 Ω resistor
-- (Optional) 50g of InstaMorph/ShapePlast (same thing different names) to fix the switch in right position. My old plain mailbox is build in "wall of mailboxes" for whole house and there is lack of options how to fix the switch without damaging the other ones. If you are lucky and have just your own, definitely choose some more robust way. 
+- (Optional) 50g of InstaMorph/ShapePlast (same thing different names) to fix the switch in right position. My old plain mailbox is build in "wall of mailboxes" for whole house and there is lack of options how to fix the switch without damaging the other ones. If you are lucky and have just your own, definitely choose some more robust way.
 
 
 ### PushOver
@@ -39,4 +41,5 @@ Its really simple, just snap action switch and the pull down resistor
 
 ### Apps
 - Download [Android](https://play.google.com/store/apps/details?id=net.superblock.pushover) or [iOS](https://itunes.apple.com/us/app/pushover-notifications/id506088175?ls=1&mt=8) PushOver app
-![Pushover app](https://cloud.githubusercontent.com/assets/9611327/16881819/3b48a92a-4abc-11e6-9999-676b986881a8.png)
+
+![Pushover app](https://cloud.githubusercontent.com/assets/9611327/16882930/cc36dec0-4ac1-11e6-9dc5-99129b31ebef.png)
